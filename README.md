@@ -1,21 +1,20 @@
 ## Julia by example
 
-This repository contains examples for getting started with `Julia` for
-economics. It assumes that you know something about programming,
-econometrics, and DSGE models. The aim is to get you going in terms of
-doing the stuff in `Julia`. It also assumes that you have Julia
+This repository contains examples for getting started with `Julia`. It
+assumes that you know a little bit about programming,
+econometrics, and DSGE models. It also assumes that you have Julia
 installed on your system. The examples are organized as a series of
 Jupyter Notebooks in their respective repositories. 
 
 The directory contains four different sub-directories:
 
-1. `basics` - This repo contains the basics of Julia such as: 
-    a. understanding Julia objects such as Vectors, Matrices,
+1. `basics` - This repo contains the basics of Julia such as:
+   - understanding Julia objects such as Vectors, Matrices,
     DataFrames,
-    b. working around with DataFrames,
-    c. writing Julia functions, 
-    d. sorting, and
-    e. handling missing data.
+   - working around with `DataFrames`,
+   - writing `Julia` functions,
+   - sorting, and
+   - handling missing data.
 2. `econometrics` - This repo contains examples of doing regressions
    such as:
    a. ordinary least squares,
