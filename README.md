@@ -17,22 +17,22 @@ The directory contains four different sub-directories:
    - handling missing data.
 2. `econometrics` - This repo contains examples of doing regressions
    such as:
-   a. ordinary least squares,
-   b. generalized least squares,
-   c. instrumental variables regression,
-   d. maximum likelihood estimation,
-   e. panel data regressions,
-   f. time-series regressions, and
-   g. bootstrapping
-3. `macroeconomics` - This repo contains some examples of solving
-   dynamic stochastic general equilibrium models in `Julia`. Some of
-   them are:
-   a. deterministic growth model,
-   b. stochastic growth model,
-   c. finite horizon dynamic programming,
-   d. 
-4. `machine-learning` - This repo contains some examples of solving
-   machine learning models in `Julia`. 
-   a. principal component analysis, principal component regression, 
-   b. linear discrimnant analysis, quadratic discriminant analysis, 
-   c. K-means clustering
+   - ordinary least squares,
+   - generalized least squares,
+   - instrumental variable regressions,
+   - maximum likelihood estimation,
+   - panel data regressions,
+   - time-series regressions, and
+   - bootstrapping
+<!-- 3. `macroeconomics` - This repo contains some examples of solving -->
+<!--    dynamic stochastic general equilibrium models in `Julia`. Some of -->
+<!--    them are: -->
+<!--    a. deterministic growth model, -->
+<!--    b. stochastic growth model, -->
+<!--    c. finite horizon dynamic programming, -->
+<!--    d.  -->
+<!-- 4. `machine-learning` - This repo contains some examples of solving -->
+<!--    machine learning models in `Julia`.  -->
+<!--    a. principal component analysis, principal component regression,  -->
+<!--    b. linear discrimnant analysis, quadratic discriminant analysis,  -->
+<!--    c. K-means clustering -->
